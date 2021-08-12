@@ -1,0 +1,7 @@
+1. Routing
+2. Get value from Header, Query, Route
+3. Send data from body
+4. Area Calculator
+5. Setup ENV
+6. Middleware
+7. Static Middleware
